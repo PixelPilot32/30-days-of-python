@@ -1,4 +1,4 @@
-import math  # Import math module to use mathematical functions like pi and power
+import math  # Import math to use mathematical functions like pi and power
 
 # String variables
 first_name = 'Hayden'             # User's first name
@@ -63,7 +63,7 @@ circum_of_circle = 2 * math.pi * 30            # Circumference = 2πr
 user_radius = int(input('Give a whole number for a new radius: '))  # Ask user for radius as integer
 area_of_circle = math.pi * pow(user_radius, 2)                    # Calculate area using user input
 
-print('The aSrea of the circle using the radius ', user_radius, ': ', area_of_circle)
+print('The area of the circle using the radius ', user_radius, ': ', area_of_circle)
 
 # Prompting user for personal details
 # Prompt the user to enter their first name and store it in a variable

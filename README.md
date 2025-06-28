@@ -14,12 +14,14 @@ To strengthen my Python skills by following a structured 30-day learning challen
 
 - ✅ Day 1
 - ✅ Day 2
-- ⏳ Day 3 (coming soon)
+- ✅ Day 3
+- ⏳ Day 4 (coming soon)
 
 ## 📖 What I learned
 
 - Day 1: Learned about data types and operators
 - Day 2: Practiced variables and boolean logic
+- Day 3: Practiced operators and input from users
 
 
 ## 📌 Resources
